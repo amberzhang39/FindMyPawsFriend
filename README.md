@@ -3,6 +3,8 @@
 1. Run following command in the terminal  
 ```
 python manage.py runserver
+OR
+python3 manage.py runserver
 ```
 2. You should see "Starting development server at http://127.0.0.1:8000/
 ", click the link
